@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Application Development for Mobile and Web**
 
-- 📫 How to reach me **shrinkoff.15@gmail.com, 
-  souroram2003@gmail.com**
+- 📫 How to reach me **shrinkoff.15@gmail.com, souroram2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
