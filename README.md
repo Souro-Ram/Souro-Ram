@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Souro Ram</h1>
+<h1 align="center">Hello 👋, Myself Souro Ram</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 <img align="right"alt="coding" width=400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souro-ram&label=Profile%20views&color=0e75b6&style=flat" alt="souro-ram" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Application Development for Mobile and Web**
 
-- 📫 How to reach me **shrinkoff.15@gmail.com**
+- 📫 How to reach me **shrinkoff.15@gmail.com, souroram2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
